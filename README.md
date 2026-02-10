@@ -1,49 +1,40 @@
-<h2 align="left">Hi 👋! My name is Omar Ayman and I'm a Front-end devolepor from Egypt</h2>
+# Awesome Project 🚀
 
-###
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWloZTlwYWdhd3hoZXl1cGVtdGliaHExZmdpY2k3NnNkMXU4NTk5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Cool GIF">
 
-<div align="center">
-</div>
+## ✨ About Me
 
-###
+Hi! I'm Omar, a 15-year-old front-end developer passionate about technology and web development.  
+I love creating interactive websites and learning new frameworks like Angular.  
+Currently focusing on building responsive web apps using modern tools and technologies.
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWloZTlwYWdhd3hoZXl1cGVtdGliaHExZmdpY2k3NnNkMXU4NTk5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+## 📌 Features / Tech Stack
 
-###
+Here are the main technologies used in this project:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###
+## 💡 Project Description
 
-<div align="left">
-  <a href="https://www.instagram.com/omarayman8015?igsh=a3piZHh4Yml6MXZy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="omarayman201099@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-ayman-a11046384?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+This project is a web app that displays cooking recipes using an external API.  
+It allows users to explore meals, categories, ingredients, and view detailed recipes.  
+Built with modern front-end technologies for a smooth and responsive experience.
 
-###
+## 📫 Contact Me
 
-<br clear="both">
+Feel free to reach out or follow me on social media:
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omarayman8015?igsh=a3piZHh4Yml6MXZy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ayman-a11046384?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-###
+## 🤝 Contributing & Support
+
+If you want to help or ask questions, send me a message or open an Issue 👌
+
+---
+
+**Thanks for checking out this project! 😊**
